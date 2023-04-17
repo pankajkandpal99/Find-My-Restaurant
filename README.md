@@ -1,5 +1,4 @@
-# Find-My-Restaurant_-UPGRAD-HACKATHON
-Find My Restaurant
+# Find-My-Restaurant
 
     This project aims to develop the backend of a real-world application in Node.js, Express.js and MongoDB. With the find my restaurant application, you can do following:
 
